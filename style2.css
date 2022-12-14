@@ -1,0 +1,125 @@
+body
+{
+	font-family: "Montserrat", sans-serif;
+	background:lightgray;
+	
+}
+#form
+{
+	border:solid gray 2px;
+	border-radius:10px;
+	margin:200px auto;
+	padding-left:50px;
+	padding-top:50px;
+	width:20%;
+	background:white;
+}
+#form2
+{
+	border:solid gray 2px;
+	border-radius:10px;
+	margin:100px;
+	padding-left:50px;
+	padding-top:50px;
+	width:40%;
+	background:white;
+}
+.btn
+{
+  border:solid gray 2px;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left:5%;
+  cursor: pointer;
+}
+
+}
+#pass
+{
+	margin-left:11px;
+}
+html,h1,h2,h3,h4,h5,h6 
+{
+font-family: "Roboto", sans-serif;
+}
+.invalid
+{
+	color:red;
+	top:22%;
+	left:48%;
+	position:absolute;
+}
+.invalid2
+{
+	color:red;
+    left:20%;
+	position:absolute;
+	top:24%;
+}
+#creat
+{
+	color:red;
+}
+.unu 
+{
+	position:relative;
+	width:400px;
+	height:50px;
+}
+.w3-top
+{
+	margin-left:20%;
+	
+}
+.w3-border-theme
+{
+	height:auto;
+	width:280px !important;
+}
+.w3-text-teal
+{
+	text-align:center;
+}
+.container
+{
+	position:relative;
+	left:100px;
+	width:40%;
+	height:auto;
+}
+.w3-main
+{
+	margin-left:200px !important;
+	margin-top:100px !important;
+}
+#bted
+{
+	position:relative;
+	bottom:50px;
+	left:600px;
+}
+.w3-sidebar
+{
+	margin-top:200px !important;
+	background:tomato !important;
+}
+body, h1,h2,h3,h4,h5,h6 {}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 120px;background: black;}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+.welcome
+{
+	text-align:center;
+	margin-bottom:100px;
+    margin-top:100px;
+	color:red;
+	font-family: "Montserrat", sans-serif;
+}
